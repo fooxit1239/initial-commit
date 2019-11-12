@@ -6,7 +6,7 @@ public class ex1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//the program gets 2 numbers & calculates the power of one with the other
 		
 		    int x=4;
 		    int y=9;
@@ -29,7 +29,7 @@ public class ex1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
+	        // the program practices simple conditions & syntax
 		
 		   int x=3;
 		   int y=5;
@@ -55,6 +55,7 @@ public class ex1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//practicing the for loop syntax
         int i;
         for (i=0;i<11;i++) {
         	System.out.println(i);
@@ -74,6 +75,7 @@ public class ex7 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//practicing calculations
         int sum=100;
         int maam=18;
         System.out.println(sum*(maam+100)/100);
