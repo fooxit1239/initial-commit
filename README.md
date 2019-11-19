@@ -1,3 +1,3 @@
 # initial-commit
-practicing simple java
+practicing simple java.
 package lesson5arrays;
